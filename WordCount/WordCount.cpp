@@ -45,5 +45,6 @@ int main() {
     printf("Number of characters: %d\n", charCount);
     printf("Number of words: %d\n", wordCount);
 
+    printf("finished");//ĞŞ¸ÄÎÄ¼ş
     return 0;
 }
